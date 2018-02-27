@@ -1,23 +1,18 @@
 body {
   font-family: ariel, sans-serif;
-
   align-content: center
-
    }
+
 .outer_box {
   border: 3px solid;
-
   width: 340px;
-
   padding: 20px;
-
   box-shadow: 5px 5px 5px 5px grey;
-
   background-color: #94abcd;
 }
+
 h1 {
   font-weight: bold;
-
   text-align: center;
 }
 .inner_box {
