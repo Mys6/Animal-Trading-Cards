@@ -7,20 +7,21 @@ body {
   width: 340px;
   padding: 20px;
   box-shadow: 5px 5px 5px 5px grey;
+  background-color: #94abcd;
 }
 h1 {
   font-weight: bold;
   text-align: center;
 }
 .inner_box {
-  border: 3px solid #f0f0f0;
+  border: 2px solid #f0f0f0;
   width: 255px;
   padding: 20px;
   margin: 20px;
 }
 .photo {
-  border: 3px solid #f0f0f0;
-  width: 300px;
+  border: 2px solid #f0f0f0;
+  width: 295px;
   margin: 20px;
 }
 .interesting_fact {
@@ -31,5 +32,5 @@ h1 {
 }
 ul {
   list-style: none;
-  padding: 0px;
+  padding: 10px;
 }
